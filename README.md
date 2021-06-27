@@ -48,3 +48,7 @@
 
 <br>
 
+<h3>Contributors</h3>
+
+[![](https://github.com/anushka-srivastava22.png?size=50)](https://github.com/anushka-srivastava22)
+[![](https://github.com/SarthakKeshari.png?size=50)](https://github.com/SarthakKeshari)
