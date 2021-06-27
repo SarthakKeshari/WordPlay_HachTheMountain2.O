@@ -2,7 +2,7 @@
 
 <h2> Colaborators - Sarthak Keshari and Anushka Srivastava </h2>
 
-<br>
+<hr>
 <br>
 
 <h2>Inspiration</h2>
