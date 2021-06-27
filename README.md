@@ -1,3 +1,3 @@
 # WordPlay_HachTheMountain2.O
 
-<h4> Contributors - Sarthak Keshari and Anushka Srivastava </h4>
+<h4> Colaborator - Sarthak Keshari and Anushka Srivastava </h4>
