@@ -1,4 +1,4 @@
-# WordPlay_HachTheMountain2.O
+# WordPlay_HackTheMountain2.O
 
 <h2> Colaborators - Sarthak Keshari and Anushka Srivastava </h2>
 
